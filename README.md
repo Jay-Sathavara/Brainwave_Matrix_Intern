@@ -1,6 +1,6 @@
 # todo_app
 
-A basic UI to-do app built with Flutter
+A basic UI to-do app built with Flutter, for my first Flutter Internship
 
 ## Screenshot # (a)
 
